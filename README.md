@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://triz.art.br/">Website</a>
+  <a href="https://triz.art.br/" target="_blank">Website</a>
 </p>
 
  <!-- About section -->
