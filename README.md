@@ -16,7 +16,7 @@
 ---
 ✨ I'm a Full Stack developer, always doing something. 
 
-- 🔭 I’m currently working on PHP, JS, CSS, HTML ...
+- 🔭 I’m currently working on PHP, JS, Laravel, React ...
 - 😄 Fun fact: I enjoy painting [check it out here](https://www.instagram.com/triz_artzz?igsh=NGFldTIybzAwYjFu)
 
 <!-- About section: END -->
