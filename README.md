@@ -16,7 +16,7 @@
 ---
 ✨ I'm a Full Stack developer, always doing something. 
 
-- 🔭 I’m currently working on PHP, JS, Laravel, React ...
+- 🔭 I’m currently working on C#, .NET
 - 😄 Fun fact: I enjoy painting [check it out here](https://www.instagram.com/triz_artzz?igsh=NGFldTIybzAwYjFu)
 
 <!-- About section: END -->
@@ -32,3 +32,4 @@
 </div>
 
 <!-- THE END -->
+
